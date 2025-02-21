@@ -32,12 +32,6 @@
 
 ---
 
-**## 🔥 Featured Projects:
-- 🚀 [Project Name](https://github.com/chamod1000/your-project) - Short description of the project.
-- 🌎 [Another Project](https://github.com/chamod1000/another-project) - Another cool project.**
-
----
-
 ## 📫 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/Chamod.1000/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chamod.1000/?hl=en)
