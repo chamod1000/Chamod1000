@@ -32,9 +32,9 @@
 
 ---
 
-## 🔥 Featured Projects:
+**## 🔥 Featured Projects:
 - 🚀 [Project Name](https://github.com/chamod1000/your-project) - Short description of the project.
-- 🌎 [Another Project](https://github.com/chamod1000/another-project) - Another cool project.
+- 🌎 [Another Project](https://github.com/chamod1000/another-project) - Another cool project.**
 
 ---
 
