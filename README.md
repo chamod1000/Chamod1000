@@ -27,19 +27,22 @@
 ---
 
 ## 📊 GitHub Stats:
-![Chamod's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamodAkalanka&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChamodAkalanka&layout=compact&theme=tokyonight)
+![Chamod's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamod1000&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamod1000&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Featured Projects:
-- 🚀 [Project Name](https://github.com/ChamodAkalanka/your-project) - Short description of the project.
-- 🌎 [Another Project](https://github.com/ChamodAkalanka/another-project) - Another cool project.
+- 🚀 [Project Name](https://github.com/chamod1000/your-project) - Short description of the project.
+- 🌎 [Another Project](https://github.com/chamod1000/another-project) - Another cool project.
 
 ---
 
 ## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/Chamod.1000/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chamod.1000/?hl=en)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/Chamod.1000/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamod1000/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=website&logoColor=white)](YOUR_PORTFOLIO)
 
