@@ -43,8 +43,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chamod.1000/?hl=en)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/Chamod.1000/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamod1000/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=website&logoColor=white)](YOUR_PORTFOLIO)
+
 
 ---
 
@@ -57,5 +56,3 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=blue&lines=Hello+World!;Welcome+to+my+GitHub!;Coding+is+Fun!)
 
 ![3D Contributions](https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/docs/demo.gif)
-
-<img src="https://your-image-url.com" width="400">
