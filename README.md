@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  Software Engineering Undergraduate | Tech Enthusiast | F1 Fan
+  Software Engineering Undergraduate | Tech Enthusiast
 </p>
 
 ---
