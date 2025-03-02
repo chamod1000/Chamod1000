@@ -9,26 +9,29 @@
 
 ## 🚀 About Me:
 - 🎓 I'm a **Software Engineering** student at **Horizon Campus, Sri Lanka**
-- 🏎️ Learning about **Formula 1 & Motorsport**
+- 🏎️ Passionate about **Formula 1 & Motorsport**
 - 🎮 Enjoying **Fortnite & Competitive Gaming**
-- 💡 Passionate about **Coding, Problem-Solving & Web Development**
-- 🌐 Exploring **AI & Full-Stack Development**
+- 💡 Love **Coding, Problem-Solving & Web Development**
+- 🤖 Exploring **AI & Full-Stack Development**
 
 ---
 
 ## 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 My GitHub Activity:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chamod1000&theme=tokyonight)
-![Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamod1000&theme=tokyonight)
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamod1000&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamod1000&theme=tokyonight" alt="GitHub Contributions">
+</p>
 
 ---
 
@@ -40,11 +43,12 @@
 ---
 
 ## 🎯 Fun Fact:
-"Programming is like racing, speed matters, but control is everything!"
+*"Programming is like racing – speed matters, but control is everything!"*
 
 ---
 
 ## ✨ Extras:
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=blue&lines=Hello+World!;Welcome+to+my+GitHub!;Coding+is+Fun!)
-
-![3D Contributions](https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/docs/demo.gif)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=blue&lines=Hello+World!;Welcome+to+my+GitHub!;Coding+is+Fun!" alt="Typing SVG">
+  <img src="https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/docs/demo.gif" alt="3D Contributions">
+</p>
