@@ -44,14 +44,6 @@ I’m a **Software Engineering** student at **Horizon Campus, Sri Lanka**, passi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-## 🌟 Featured Project
-### [Vehicle Rental System](https://github.com/chamod1000/VehicleRentalSystem-Simple-)
-A C# Windows Forms application demonstrating **encapsulation** and **polymorphism**. Users can select vehicles (Cars or Vans), destinations, and locations to calculate rental costs, displayed in an intuitive GUI.
-
-- **Tech**: C#, .NET Framework 4.8, Windows Forms
-- **Features**: Dynamic cost calculation, dual-form navigation
-- **Status**: Completed for IT21053 mini-project
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chamod1000&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="400"/>
