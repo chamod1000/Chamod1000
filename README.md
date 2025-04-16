@@ -14,9 +14,9 @@
   <a href="https://github.com/chamod1000">
     <img src="https://img.shields.io/github/followers/chamod1000?label=Follow&style=flat-square" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/chamod1000/VehicleRentalSystem-Simple-">
-    <img src="https://img.shields.io/badge/Project-Vehicle%20Rental%20System-blue?style=flat-square" alt="Vehicle Rental System"/>
-  </a>
+  //<a href="https://github.com/chamod1000/VehicleRentalSystem-Simple-">
+    //<img src="https://img.shields.io/badge/Project-Vehicle%20Rental%20System-blue?style=flat-square" alt="Vehicle Rental System"/>
+  //</a>
 </p>
 
 ---
