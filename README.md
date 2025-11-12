@@ -33,7 +33,7 @@
   <img align="right" width="250" src="https://i.pinimg.com/originals/45/d2/91/45d2919d9e580edb8392d3c156511b36.gif" alt="Coding" />
 
   <blockquote>
-  I’m a **Software Engineering undergraduate** at **Horizon Campus, Sri Lanka**, passionate about building efficient, creative, and scalable solutions.  
+  I’m a Software Engineering undergraduate at Horizon Campus, Sri Lanka, passionate about building efficient, creative, and scalable solutions.  
   I enjoy exploring new technologies, solving logical problems, and creating projects that make life simpler and smarter.
 
   When I’m not coding, I’m either designing graphics, racing through **Formula 1**, or playing **Fortnite**.  
