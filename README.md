@@ -36,7 +36,7 @@
   I’m a Software Engineering undergraduate at Horizon Campus, Sri Lanka, passionate about building efficient, creative, and scalable solutions.  
   I enjoy exploring new technologies, solving logical problems, and creating projects that make life simpler and smarter.
 
-  When I’m not coding, I’m either designing graphics, racing through **Formula 1**, or playing **Fortnite**.  
+  When I’m not coding, I’m either designing graphics, racing through **Formula 1**, or playing **V-Games**.  
   My dream is to combine creativity, logic, and AI to build next-generation software experiences. 🚀  
   </blockquote>
 
@@ -44,7 +44,7 @@
   - 💻 Skilled in **C#, Python, Java, React, and MySQL**  
   - ☁️ Interested in **AI, Full-Stack & Cloud Development**  
   - 🏎️ **Formula 1** and **Motorsport Enthusiast**  
-  - 🎮 Competitive **Fortnite** player and creative thinker  
+  - 🎮 Competitive **Game** player and creative thinker  
   </p>
 </details>
 
