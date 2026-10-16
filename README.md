@@ -1,17 +1,17 @@
 
 <!--
   CHAMOD AKALANKA
-  Arch Linux-inspired GitHub Profile
-  Theme: Dark / Emerald / Minimal Desktop
+  Minimal Developer Profile
+  Theme: Dark / Emerald / Terminal UI
 -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=700&lines=chamod%40archlinux;Software+Developer;Linux+%7C+DevOps+%7C+AI;Think.+Build.+Optimize." alt="Chamod developer introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=700&lines=chamod%40developer;Software+Developer;Software+%7C+DevOps+%7C+AI;Think.+Build.+Optimize." alt="Developer introduction" />
 
   <br/>
 
-  <samp>ARCH-INSPIRED DEVELOPER ENVIRONMENT</samp>
+  <samp>PERSONAL DEVELOPER ENVIRONMENT</samp>
 
   <br/><br/>
 
@@ -39,45 +39,42 @@
 
 Software developer and Information Technology undergraduate from Sri Lanka.
 
-I enjoy understanding how systems work, building practical applications, exploring Linux, and improving software through logical problem-solving.
+I enjoy understanding how systems work, building practical applications, exploring new technologies, and improving software through logical problem-solving.
 
-My interests sit at the intersection of software development, automation, infrastructure, and AI.
+My interests span software development, automation, infrastructure, and artificial intelligence.
 
     </td>
     <td width="42%" valign="top">
 
-### `02 / SYSTEM INFO`
+### `02 / PROFILE INFO`
 
 ```text
-USER      chamod
-LOCATION  Sri Lanka
-EDUCATION BSc (Hons) IT
-CAMPUS    Horizon Campus
-OS        Arch Linux
-SETUP     Omarchy
-WM        Hyprland
+USER       chamod
+LOCATION   Sri Lanka
+EDUCATION  BSc (Hons) IT
+INSTITUTE  Horizon Campus
+FOCUS      Software
+           DevOps
+           AI / ML
+MINDSET    Learn & Improve
 ```
 
     </td>
   </tr>
 </table>
 
-## `03 / DESKTOP ENVIRONMENT`
+## `03 / DEVELOPMENT ENVIRONMENT`
 
-<div align="center">
+I enjoy creating a focused development environment that supports productivity, customization, and efficient workflows.
 
-| Component | Environment |
+| Area | Focus |
 |:--|:--|
-| Operating system | Arch Linux |
-| Desktop environment | Omarchy |
-| Window manager / compositor | Hyprland |
-| Desktop workflow | Keyboard-driven Linux workflow |
-| Terminal aesthetic | Minimal, dark, developer-focused |
-| Color preference | Emerald green on dark backgrounds |
-
-</div>
-
-I enjoy the flexibility of Linux and the control that comes with a customizable desktop. My Arch Linux and Omarchy environment is part of how I explore, configure, and learn about my development system.
+| Environment | Customizable development workspace |
+| Workflow | Keyboard-driven productivity |
+| Interface | Minimal and distraction-free |
+| Terminal | Command-line tools and automation |
+| Design | Dark surfaces with emerald accents |
+| Approach | Simplicity, control, and efficiency |
 
 ## `04 / TECH STACK`
 
@@ -118,7 +115,7 @@ I enjoy the flexibility of Linux and the control that comes with a customizable 
   <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=10B981" alt="MongoDB"/>
 </p>
 
-### DevOps & Tools
+### Tools & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=10B981" alt="Linux"/>
@@ -141,22 +138,22 @@ I enjoy the flexibility of Linux and the control that comes with a customizable 
   <tr>
     <td width="50%" valign="top">
 
-**Software Engineering**
+**Software Development**
 
-- Backend architecture
-- REST API development
+- Backend engineering
+- REST API design
 - Full-stack applications
 - Microservices and testing
 
     </td>
     <td width="50%" valign="top">
 
-**DevOps & Linux**
+**DevOps & Automation**
 
-- Arch Linux customization
-- Hyprland desktop workflows
-- Docker and containers
-- Automation and deployment
+- Containerization
+- Development workflows
+- Linux tools
+- Deployment and automation
 
     </td>
   </tr>
@@ -177,25 +174,25 @@ I enjoy the flexibility of Linux and the control that comes with a customizable 
 
 - UI/UX and graphic design
 - Video editing and color grading
-- Developer workflow customization
+- Workflow customization
 - Exploring new tools
 
     </td>
   </tr>
 </table>
 
-## `06 / BEYOND THE TERMINAL`
+## `06 / BEYOND THE CODE`
 
 <div align="center">
 
   <img src="https://img.shields.io/badge/FORMULA_1-0D1117?style=for-the-badge&logo=f1&logoColor=10B981" alt="Formula 1"/>
-  <img src="https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge&logo=archlinux&logoColor=10B981" alt="Linux"/>
+  <img src="https://img.shields.io/badge/TECHNOLOGY-0D1117?style=for-the-badge&logo=linux&logoColor=10B981" alt="Technology"/>
   <img src="https://img.shields.io/badge/GAMING-0D1117?style=for-the-badge&logo=steam&logoColor=10B981" alt="Gaming"/>
   <img src="https://img.shields.io/badge/DESIGN-0D1117?style=for-the-badge&logo=figma&logoColor=10B981" alt="Design"/>
 
   <br/><br/>
 
-  <i>I enjoy Formula 1, competitive gaming, creative design, and exploring the tools that make technology more interesting.</i>
+  <i>Interested in Formula 1, competitive gaming, creative design, and exploring technology.</i>
 
 </div>
 
@@ -205,13 +202,13 @@ I enjoy the flexibility of Linux and the control that comes with a customizable 
 
   <img src="https://github-readme-stats.vercel.app/api?username=chamod1000&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamod1000&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" height="165" alt="Most used programming languages on GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamod1000&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" height="165" alt="GitHub language statistics"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamod1000&bg_color=0D1117&color=C9D1D9&line=10B981&point=10B981&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamod1000&bg_color=0D1117&color=C9D1D9&line=10B981&point=10B981&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -235,6 +232,6 @@ I enjoy the flexibility of Linux and the control that comes with a customizable 
 
   <br/><br/>
 
-  <sub>Designed with a Linux mindset · Powered by curiosity</sub>
+  <sub>A personal space for software, creativity, and continuous improvement.</sub>
 
 </div>
