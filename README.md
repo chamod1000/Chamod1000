@@ -1,116 +1,240 @@
-<!-- TERMINAL HEADER / TYPING SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=chamod@portfolio:~$+whoami;>+\%22Chamod+Akalanka+-+Software+Engineer\%22;chamod@portfolio:~$+cat+role.txt;>+%22Full-Stack+Developer+%7C+AI+%26+Cloud+Enthusiast%22" alt="Terminal Typing SVG" />
-</div>
 
-```bash
-chamod@horizon-dev:~$ ./initialize_profile.sh --mode=production
-[INFO] Loading developer environment... 100%
-[OK] System Status: Online & Open to Software Engineering Opportunities
-```
+<!--
+  CHAMOD AKALANKA
+  Arch Linux-inspired GitHub Profile
+  Theme: Dark / Emerald / Minimal Desktop
+-->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/chamod1000/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=700&lines=chamod%40archlinux;Software+Developer;Linux+%7C+DevOps+%7C+AI;Think.+Build.+Optimize." alt="Chamod developer introduction" />
+
+  <br/>
+
+  <samp>ARCH-INSPIRED DEVELOPER ENVIRONMENT</samp>
+
+  <br/><br/>
+
   <a href="https://github.com/chamod1000">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=10B981" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chamod1000/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=10B981" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/chamod.1000/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=10B981" alt="Instagram"/>
   </a>
+
 </div>
 
 ---
 
-### `chamod@portfolio:~$ cat about_me.json`
+<table>
+  <tr>
+    <td width="58%" valign="top">
 
-```json
-{
-  "name": "Chamod Akalanka",
-  "location": "Sri Lanka",
-  "education": {
-    "degree": "BSc (Hons) in Software Engineering",
-    "institution": "Horizon Campus"
-  },
-  "core_competencies": [
-    "Full-Stack Engineering (React, .NET, Node.js)",
-    "AI-Powered Application Development (Python, Flask)",
-    "Cloud Architecture & Deployment (AWS, Azure)",
-    "Relational Database Design (MySQL)"
-  ],
-  "interests": [
-    "Formula 1 & Motorsport 🏎️",
-    "UI/UX & Graphic Design",
-    "Competitive Gaming 🎮"
-  ],
-  "philosophy": "Coding is like Formula 1 — precision and speed win the race, but strategy keeps you on track. 🏁"
-}
+### `01 / USER PROFILE`
+
+**Chamod Akalanka**
+
+Software developer and Information Technology undergraduate from Sri Lanka.
+
+I enjoy understanding how systems work, building practical applications, exploring Linux, and improving software through logical problem-solving.
+
+My interests sit at the intersection of software development, automation, infrastructure, and AI.
+
+    </td>
+    <td width="42%" valign="top">
+
+### `02 / SYSTEM INFO`
+
+```text
+USER      chamod
+LOCATION  Sri Lanka
+EDUCATION BSc (Hons) IT
+CAMPUS    Horizon Campus
+OS        Arch Linux
+SETUP     Omarchy
+WM        Hyprland
 ```
 
----
+    </td>
+  </tr>
+</table>
 
-### `chamod@portfolio:~$ ls -la ./tech-stack/`
-
-| Permissions | Directory | Packages & Dependencies |
-| :--- | :--- | :--- |
-| `drwxr-xr-x` | **`/languages`** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| `drwxr-xr-x` | **`/frontend`** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| `drwxr-xr-x` | **`/backend`** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
-| `drwxr-xr-x` | **`/data_cloud`** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
-| `drwxr-xr-x` | **`/devops_os`** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) |
-
----
-
-### `chamod@portfolio:~$ docker ps --format "table {{.Names}}\t{{.Status}}\t{{.Ports}}"`
-
-> 💡 *Selected builds and flagship repositories:*
-
-| Container Name (Project) | Stack / Image | Description | Source & Demo |
-| :--- | :--- | :--- | :--- |
-| **`project-alpha-ai`** | `Python` `Flask` `React` | AI-powered web application for smart automation and analytics. | [📂 Repo](https://github.com/chamod1000) \| [🌐 Live](#) |
-| **`enterprise-erp-core`** | `C#` `.NET` `MySQL` | Full-stack management system with role-based access control. | [📂 Repo](https://github.com/chamod1000) \| [🌐 Live](#) |
-| **`cloud-api-gateway`** | `Node.js` `REST` `AWS` | Scalable backend service optimized for high-concurrency requests. | [📂 Repo](https://github.com/chamod1000) \| [🌐 Docs](#) |
-
----
-
-### `chamod@portfolio:~$ systemctl status current-focus.service`
-
-```diff
-● current-focus.service - Chamod's Active R&D Daemon
-   Loaded: loaded (/etc/systemd/system/career.service; enabled; vendor preset: enabled)
-   Active: active (running)
-
-+ [RUNNING] Full-Stack Architecture with React, .NET & Node.js
-+ [RUNNING] Building AI-Powered Applications using Python
-+ [LOADING] Cloud-Native Deployments on AWS & Azure
-+ [OPTIMIZING] Data Structures, Algorithms & System Design
-! [STANDBY] Open for Software Engineering Internships, Roles & Collaborations
-```
-
----
-
-### `chamod@portfolio:~$ htop --user=chamod1000`
+## `03 / DESKTOP ENVIRONMENT`
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=chamod1000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=chamod1000&theme=tokyonight&hide_border=true&background=0D1117&stroke=10B981&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak" />
+
+| Component | Environment |
+|:--|:--|
+| Operating system | Arch Linux |
+| Desktop environment | Omarchy |
+| Window manager / compositor | Hyprland |
+| Desktop workflow | Keyboard-driven Linux workflow |
+| Terminal aesthetic | Minimal, dark, developer-focused |
+| Color preference | Emerald green on dark backgrounds |
+
+</div>
+
+I enjoy the flexibility of Linux and the control that comes with a customizable desktop. My Arch Linux and Omarchy environment is part of how I explore, configure, and learn about my development system.
+
+## `04 / TECH STACK`
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=10B981" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=10B981" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=10B981" alt="C"/>
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=csharp&logoColor=10B981" alt="C sharp"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=10B981" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=10B981" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=10B981" alt="SQL"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=10B981" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=10B981" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=10B981" alt="CSS3"/>
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=flat-square&logo=springboot&logoColor=10B981" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=10B981" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=10B981" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=10B981" alt="REST APIs"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=10B981" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MariaDB-0D1117?style=flat-square&logo=mariadb&logoColor=10B981" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=10B981" alt="MongoDB"/>
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=10B981" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=10B981" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=10B981" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=10B981" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=10B981" alt="Postman"/>
+</p>
+
+### Creative Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=10B981" alt="Figma"/>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-0D1117?style=flat-square&logo=davinciresolve&logoColor=10B981" alt="DaVinci Resolve"/>
+</p>
+
+## `05 / CURRENT INTERESTS`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**Software Engineering**
+
+- Backend architecture
+- REST API development
+- Full-stack applications
+- Microservices and testing
+
+    </td>
+    <td width="50%" valign="top">
+
+**DevOps & Linux**
+
+- Arch Linux customization
+- Hyprland desktop workflows
+- Docker and containers
+- Automation and deployment
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**Artificial Intelligence**
+
+- AI-powered applications
+- Machine learning
+- Practical problem-solving
+- Data-driven systems
+
+    </td>
+    <td width="50%" valign="top">
+
+**Creative Technology**
+
+- UI/UX and graphic design
+- Video editing and color grading
+- Developer workflow customization
+- Exploring new tools
+
+    </td>
+  </tr>
+</table>
+
+## `06 / BEYOND THE TERMINAL`
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/FORMULA_1-0D1117?style=for-the-badge&logo=f1&logoColor=10B981" alt="Formula 1"/>
+  <img src="https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge&logo=archlinux&logoColor=10B981" alt="Linux"/>
+  <img src="https://img.shields.io/badge/GAMING-0D1117?style=for-the-badge&logo=steam&logoColor=10B981" alt="Gaming"/>
+  <img src="https://img.shields.io/badge/DESIGN-0D1117?style=for-the-badge&logo=figma&logoColor=10B981" alt="Design"/>
+
+  <br/><br/>
+
+  <i>I enjoy Formula 1, competitive gaming, creative design, and exploring the tools that make technology more interesting.</i>
+
+</div>
+
+## `07 / GITHUB ACTIVITY`
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=chamod1000&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamod1000&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" height="165" alt="Most used programming languages on GitHub"/>
+
 </div>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamod1000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=c9d1d9" alt="Top Languages" />
-  <img height="165em" src="https://github-profile-trophy.vercel.app/?username=chamod1000&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=15" alt="GitHub Trophies" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamod1000&bg_color=0D1117&color=C9D1D9&line=10B981&point=10B981&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
 </div>
 
-<!-- CONTRIBUTION SNAKE -->
+## `08 / CONNECT`
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chamod1000/chamod1000/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+
+  <a href="https://github.com/chamod1000">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chamod1000/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/chamod.1000/">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=10B981" alt="Instagram"/>
+  </a>
+
+  <br/><br/>
+
+  <samp>Think logically. Build deliberately. Keep learning.</samp>
+
+  <br/><br/>
+
+  <sub>Designed with a Linux mindset · Powered by curiosity</sub>
+
 </div>
-
----
-
-```bash
-chamod@horizon-dev:~$ echo "Thanks for visiting! Let's connect and build something extraordinary." && exit
-logout
-Connection to [github.com/chamod1000](https://github.com/chamod1000) closed.
-```
